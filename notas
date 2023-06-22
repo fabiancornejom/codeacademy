@@ -1,8 +1,33 @@
 java
 
+print()
+println()
+
 System.out.print("Three...");
 System.out.print("Two...");
 
 System.out.println("One...");
 System.out.println("Ready or not,here I come!");
+
+singlecommets
+// Sun Microsystems announced the release of Java in 1995
+
+multiline sintax
+/*	James Gosling is a Canadian engineer who 
+created Java while working at Sun Microsystems. 
+His favorite number is the square root of 2! */
+
+semicolons(more readable)
+System.out.println("Java is a class-based language.");
+
+System.out.println("Java classes have a 'main' method.");
+
+System.out.println("Java statements end with a semicolon.");
+
+System.out.println("Programming is… fun");
+
+Compilation: Catching Errors
+
+
+
 
